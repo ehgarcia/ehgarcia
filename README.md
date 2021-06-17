@@ -1,9 +1,9 @@
 # Web development student? That's me!
 
-Hey! 😄 ¿Te gusta el desarrollo web? ¡A mi también! Estoy aprendiendo a desarrollar sitios web con la mejor plataforma de educación en línea latinoamericana. 
+Hey! 😄 ¿Te gusta el desarrollo web? ¡A mi también! Estoy aprendiendo a desarrollar sitios web de forma autodidacta en línea. 
 
 
-Puedes encontrar mi perfil [aqui!](https://platzi.com/p/ehgarcia94/ "encontrar en Platzi") 💚
+Puedes ver mi perfil [aqui!](https://platzi.com/p/ehgarcia94/ "encontrar en Platzi") 💚
 
 ## ¿Qué estoy aprendiendo actualmente?
 
@@ -14,6 +14,7 @@ Ya, esta sección se actualiza constantemente con las tecnologías que esté apr
 3. Javascritp
 4. Git y Github
 5. NodeJs
+6. Docker
 
 
 ### ¿Quieres más? 
