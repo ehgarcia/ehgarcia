@@ -3,10 +3,9 @@
 Hey! 😄 ¿Te gusta el desarrollo web? ¡A mi también! Estoy aprendiendo a desarrollar sitios web de forma autodidacta en línea. 
 
 
-
 ## ¿Qué estoy aprendiendo actualmente?
 
-Ya, esta sección se actualiza constantemente con las tecnologías que esté aprendiendo.
+En esta sección actualizare constantemente las tecnologías que esté aprendiendo.
 
 1. Html
 2. Css
@@ -18,7 +17,8 @@ Ya, esta sección se actualiza constantemente con las tecnologías que esté apr
 
 ### ¿Quieres más? 
 
-Puedes leer mis publicaciones de lo que voy aprendiendo en (https://medium.com/@ehgarcia "Medium")
+Puedes leer mis publicaciones de lo que voy aprendiendo en  [Medium](https://medium.com/@ehgarcia)
+
 ---
 📢  Puedes encontrarme en las principales redes sociales y si tienes una pregunta no dudes en escribirme!
 
