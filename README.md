@@ -3,7 +3,6 @@
 Hey! 😄 ¿Te gusta el desarrollo web? ¡A mi también! Estoy aprendiendo a desarrollar sitios web de forma autodidacta en línea. 
 
 
-Puedes ver mi perfil [aqui!](https://platzi.com/p/ehgarcia94/ "encontrar en Platzi") 💚
 
 ## ¿Qué estoy aprendiendo actualmente?
 
@@ -23,8 +22,6 @@ Ya, esta sección se actualiza constantemente con las tecnologías que esté apr
 
 - [Twitter](https://twitter.com/ehgarcia2 "Twitter")
 - [Instagram](https://www.instagram.com/ezehgarcia/ "Instagram")
-- [Platzi](https://platzi.com/p/ehgarcia94/ "Platzi")
 
-[![Casco astronauta](https://i.imgur.com/b1kbwbR.gif "Casco")](https://platzi.com/cursos "Nunca pares de aprender")
 
 Nunca pares de aprender!
