@@ -17,6 +17,8 @@ Ya, esta sección se actualiza constantemente con las tecnologías que esté apr
 
 
 ### ¿Quieres más? 
+
+Puedes leer mis publicaciones de lo que voy aprendiendo en (https://medium.com/@ehgarcia "Medium")
 ---
 📢  Puedes encontrarme en las principales redes sociales y si tienes una pregunta no dudes en escribirme!
 
