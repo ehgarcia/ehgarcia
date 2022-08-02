@@ -1,7 +1,6 @@
 # Web development student? That's me!
 
-Hey! 😄 ¿Te gusta el desarrollo web? ¡A mi también! Estoy aprendiendo a desarrollar sitios web de forma autodidacta en línea. 
-
+Hey! 😄 ¿Te gusta el desarrollo web? ¡A mi también! Estoy aprendiendo a desarrollar sitios aplicaciones web.
 
 ## ¿Qué estoy aprendiendo actualmente?
 
